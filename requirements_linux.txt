@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+torch==2.11.0+cu126
+numpy==1.26.4
+sounddevice==0.5.5
+websockets==16.0
+transformers==5.7.0
+peft==0.19.1
+pyttsx3==2.99
+safetensors==0.7.0
+huggingface_hub==1.13.0
+tokenizers==0.22.2
